@@ -1,0 +1,30 @@
+ header.menu{
+    background-color: white;
+} 
+
+ .menu a{
+    font-size: 1.2em;
+    color:#FAB259;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+
+.imageB{
+    background-image: url(https://images.unsplash.com/photo-1541782432180-e4371d7e1a47?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:84vh;
+    color:white;
+}
+
+
+   #logo{
+        height:8%;
+    }
+
+    .bouton{
+        background-color:#FAB259;
+        color: white
+    }
+   
